@@ -1,7 +1,5 @@
 ![header](https://capsule-render.vercel.app/api?type=rounded&color=timeGradient&text=Welcome%20to%20Huns%20GitHub%20👋&fontSize=40&fontAlignY=50&fontAlign=50&height=180&animation=twinkling)
 
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fjae-hun-e&count_bg=%23FF6E10&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
-
 ## 🔧 Tech Stack 🔧
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jae-hun-e&layout=compact&theme=tokyonight)](https://github.com/jae-hun-e)
@@ -70,3 +68,5 @@
 </div>
 
 [![Hun's GitHub stats](https://github-readme-stats.vercel.app/api?username=jae-hun-e&include_all_commits=true&show_icons=true&theme=cobalt)](https://github.com/jae-hun-e/github-readme-stats)
+
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fjae-hun-e&count_bg=%23FF6E10&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
