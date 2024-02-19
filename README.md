@@ -3,6 +3,7 @@
 ## 🔧 Tech Stack 🔧
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jae-hun-e&layout=compact&theme=tokyonight)](https://github.com/jae-hun-e)
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=wwognskec)](https://solved.ac/wwognskec/)
 
 ## 🔨 Once I've used 🔨
 
