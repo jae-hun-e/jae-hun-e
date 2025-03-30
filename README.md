@@ -34,19 +34,14 @@
     <!-- Deploy -->
     <p><strong>Deploy</strong></p>
     <div>
-        <img src="https://img.shields.io/badge/EC2-FF9900?style=for-the-badge&logo=amazonec2&logoColor=white"> 
-        <img src="https://img.shields.io/badge/S3-569A31?style=for-the-badge&logo=amazons3&logoColor=white">
+        <img src="https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonecAWS&logoColor=white">
+        <img src="https://img.shields.io/badge/GCP-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white">
         <img src="https://img.shields.io/badge/vercel-000000?style=for-the-badge&logo=vercel&logoColor=white"> 
         <img src="https://img.shields.io/badge/netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white">
-        <img src="https://img.shields.io/badge/GCP-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white">
-
     </div>
 <br>
-</div>
 
 [![Hun's GitHub stats](https://github-readme-stats.vercel.app/api?username=jae-hun-e&include_all_commits=true&show_icons=true&theme=cobalt)](https://github.com/jae-hun-e/github-readme-stats)
-
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fjae-hun-e&count_bg=%23FF6E10&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 
 
 ## 🔧 Tech Stack 🔧
